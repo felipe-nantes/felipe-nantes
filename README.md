@@ -6,9 +6,9 @@
    
   Prazer!! Me chamo Felipe Nantes.
 
-- 🔭 I’m currently working on NocTi-Soluções
+- 🔭 I’m a Frellancer dev
 - 🌱 I’m currently learning Software Engineering on Unicesumar
-- 📫 Contact me on my email: fnantes07@gmail.com.br
+- 📫 Contact me on my email: felipe.nantes07@gmail.com.br
 
 ##
 
