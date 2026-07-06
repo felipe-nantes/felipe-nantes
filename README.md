@@ -27,7 +27,7 @@ Prazer!! Me chamo **Felipe Nantes**.
 </div>
 
 <div align="center">
-  <h3>📊 GitHub Stats</h3>
+  <h3> GitHub Stats</h3>
   <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipe-nantes&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=8&border_color=FF00F6&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-nantes&layout=compact&count_private=true&langs_count=8&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=8&border_color=FF00F6" alt="Most Used Languages">
@@ -43,7 +43,7 @@ Prazer!! Me chamo **Felipe Nantes**.
 
 <img align="right" alt="coding" height="180px" src="./src/study.gif">
 
-<h3 align="left">🤝 Connect with me!</h3>
+<h3 align="left"> Connect with me!</h3>
 
 <div>
   <a href="https://instagram.com/SEU_INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a>
