@@ -17,7 +17,7 @@ Prazer!! Me chamo **Felipe Nantes**.
 
 *  I'm a **Freelancer dev**, building web & mobile products from Apucarana – PR 🇧🇷
 *  I'm currently learning **Software Engineering** at Unicesumar
-*  I love turning ideas into clean, functional products
+*  I only turning ideas into clean, functional products
 *  Contact me on my email: **felipe.nantes07@gmail.com**
 
 <h3 align="left">🛠️ Tech Stack</h3>
