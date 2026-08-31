@@ -21,7 +21,7 @@ Prazer!! Me chamo **Felipe Nantes**.
 *  Co-Founder at **Heat On** — *Scientific Intelligence in Motion*
 *  Contact me on my email: **felipenantes@heaton.com.br**
 
-<h3 align="left">🔥 Building — Heat On</h3>
+<h3 align="left"> Building — Heat On</h3>
 
 Heat On is a healthtech company at the intersection of software, data and AI applied to health — from dashboards and process automation to medical imaging pipelines and 3D anatomical reconstruction. I co-founded it alongside two other partners, focused on the engineering side of the product.
 
@@ -30,7 +30,7 @@ Heat On is a healthtech company at the intersection of software, data and AI app
   <a href="https://github.com/felipe-nantes/HeatOn" target="_blank"><img src="https://img.shields.io/badge/Source-HeatOn-FF00F6?style=for-the-badge&logo=github&logoColor=white&labelColor=000" alt="Heat On source"></a>
 </div>
 
-<h3 align="left">🛠️ Tech Stack</h3>
+<h3 align="left"> Tech Stack</h3>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,ts,js,react,nodejs,astro,tailwind,git,figma&theme=dark" alt="tech stack">
