@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF00F6&center=true&vCenter=true&width=600&lines=%E2%8A%B9+Hello!+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9;Freelancer+Dev+%7C+Software+Engineering+Student" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF00F6&center=true&vCenter=true&width=600&lines=%E2%8A%B9+Hello!+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9;Freelancer+Dev+%7C+Software+Engineering+Student;Co-Founder+%40+Heat+On" alt="Typing SVG">
   </a>
 </div>
 
@@ -18,12 +18,22 @@ Prazer!! Me chamo **Felipe Nantes**.
 *  I'm a **Freelancer dev**, building web & mobile products from Paraná 🇧🇷
 *  I'm currently learning **Software Engineering** at Unicesumar
 *  I only turning ideas into clean, functional products
+*  Co-Founder at **Heat On** — *Scientific Intelligence in Motion*
 *  Contact me on my email: **felipe.nantes07@gmail.com**
+
+<h3 align="left">🔥 Building — Heat On</h3>
+
+Heat On is a healthtech company at the intersection of software, data and AI applied to health — from dashboards and process automation to medical imaging pipelines and 3D anatomical reconstruction. I co-founded it alongside two other partners, focused on the engineering side of the product.
+
+<div align="left">
+  <a href="https://heaton.com.br" target="_blank"><img src="https://img.shields.io/badge/Website-heaton.com.br-FF00F6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000" alt="Heat On website"></a>
+  <a href="https://github.com/felipe-nantes/HeatOn" target="_blank"><img src="https://img.shields.io/badge/Source-HeatOn-FF00F6?style=for-the-badge&logo=github&logoColor=white&labelColor=000" alt="Heat On source"></a>
+</div>
 
 <h3 align="left">🛠️ Tech Stack</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nodejs,tailwind,git,figma&theme=dark" alt="tech stack">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nodejs,astro,tailwind,git,figma&theme=dark" alt="tech stack">
 </div>
 
 <div align="center">
@@ -40,8 +50,6 @@ Prazer!! Me chamo **Felipe Nantes**.
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=felipe-nantes&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies">
 </div>
-
-<img align="right" alt="coding" height="180px" src="./src/study.gif">
 
 <h3 align="left"> Connect with me!</h3>
 
