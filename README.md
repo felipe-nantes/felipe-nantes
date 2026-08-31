@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF00F6&center=true&vCenter=true&width=600&lines=%E2%8A%B9+Hello!+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9;Freelancer+Dev+%7C+Software+Engineering+Student;Co-Founder+%40+Heat+On" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF00F6&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Co-Founder+%40+Heat+On" alt="Typing SVG">
   </a>
 </div>
 
@@ -15,7 +15,7 @@
 
 Prazer!! Me chamo **Felipe Nantes**.
 
-*  I'm a **Freelancer dev**, building web & mobile products from Paraná 🇧🇷
+*  Building web & mobile products from Paraná 🇧🇷
 *  I'm currently learning **Software Engineering** at Unicesumar
 *  I only turning ideas into clean, functional products
 *  Co-Founder at **Heat On** — *Scientific Intelligence in Motion*
