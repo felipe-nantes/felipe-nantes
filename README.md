@@ -19,7 +19,7 @@ Prazer!! Me chamo **Felipe Nantes**.
 *  I'm currently learning **Software Engineering** at Unicesumar
 *  I only turning ideas into clean, functional products
 *  Co-Founder at **Heat On** — *Scientific Intelligence in Motion*
-*  Contact me on my email: **felipe.nantes07@gmail.com**
+*  Contact me on my email: **felipenantes@heaton.com.br**
 
 <h3 align="left">🔥 Building — Heat On</h3>
 
