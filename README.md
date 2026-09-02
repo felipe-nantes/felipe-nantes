@@ -15,7 +15,7 @@
 
 Prazer!! Me chamo **Felipe Nantes**.
 
-*  Building web & mobile products from Paraná 🇧🇷
+*  Building software solutions from Paraná 🇧🇷
 *  I'm currently learning **Software Engineering** at Unicesumar
 *  I only turning ideas into clean, functional products
 *  Co-Founder at **Heat On** — *Scientific Intelligence in Motion*
