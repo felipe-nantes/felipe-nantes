@@ -4,12 +4,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=felipe-nantes&label=Profile%20views&color=FF00F6&style=flat" alt="profile views">
-  <a href="https://github.com/felipe-nantes?tab=followers">
-    <img src="https://img.shields.io/github/followers/felipe-nantes?label=Followers&style=flat&color=FF00F6&labelColor=000" alt="followers">
-  </a>
-</div>
 
 <br>
 
