@@ -41,9 +41,6 @@ Heat On is a healthtech company at the intersection of software, data and AI app
   <img src="https://streak-stats.demolab.com?user=felipe-nantes&theme=highcontrast&hide_border=true&background=000000&ring=FF00F6&fire=FF00F6&currStreakLabel=FF00F6&sideLabels=FFF&dates=8B8B8B&currStreakNum=FFF&sideNums=FFF&border_radius=8" alt="GitHub Streak">
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=felipe-nantes&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies">
-</div>
 
 <h3 align="left"> Connect with me!</h3>
 
