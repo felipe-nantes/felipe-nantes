@@ -45,9 +45,9 @@ Heat On is a healthtech company at the intersection of software, data and AI app
 <h3 align="left"> Connect with me!</h3>
 
 <div>
-  <a href="https://instagram.com/SEU_INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a>
+  <a href="https://instagram.com/nantesss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a>
   <a href="mailto:felipe.nantes07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
+  <a href="https://www.linkedin.com/in/felipe-nantes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 </div>
 
 <br>
